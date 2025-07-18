@@ -1,15 +1,19 @@
 from flask import Flask, request, jsonify
-import pandas as pd
+import csv
 import re
 
 app = Flask(__name__)
 
-CSV_PATH = "Naehrstoffe.csv"
-try:
-    df = pd.read_csv(CSV_PATH)
-    erlaubte_wirkstoffe = df['Wirkstoff'].dropna().str.lower().unique().tolist()
-except Exception as e:
-    erlaubte_wirkstoffe = []
+# Wirkstoffe aus CSV einlesen
+def lade_wirkstoffe():
+    try:
+        with open("Naehrstoffe.csv", newline='') as csvfile:
+            reader = csv.DictReader(csvfile)
+            return [row["Wirkstoff"].strip().lower() for row in reader if row.get("Wirkstoff")]
+    except Exception as e:
+        return []
+
+erlaubte_wirkstoffe = lade_wirkstoffe()
 
 @app.route("/check", methods=["POST"])
 def check_wirkstoffe():
