@@ -1,0 +1,41 @@
+Nährstoff,Wirkstoff,Einnahme (Einheit),Einnahme (Gesamt),Einnahme (Morgens Nüchtern),Einnahme (Frühstück),Einnahme (Mittags/Training),Einnahme (Abendessen),Einnahme (Nachts),Bioverfügbarkeit,Einnahmeart,Einnahmefrequenz,Kategorie,Ziel / Wirkung,Kommentar
+NMN,Uthever,mg,500,500,,,,,hoch,mit Wasser,täglich,"Mitochondrien, Langlebigkeit, Methylierung","NAD⁺-Booster, Zellalterung, Energie",
+TMG,Betain,mg,1000,1000,,,,,hoch,mit Wasser,täglich,Methylierung,"Methylierung, Homocystein-Senkung",
+MCT-Öl,Caprylsäure (C8),ml,"7,5","2,5",,"2,5","2,5",,ideal,mit Wasser,täglich,"Ketose, Energie","Ketose, schnelle Energie, Fokus",
+L-Tyrosin,L-Tyrosin,mg,1000,1000,,,,,mittel,mit Wasser,täglich,"Fokus, Neurotransmitter","Dopamin-Vorstufe, Fokus, Antrieb",
+L-Taurin,L-Taurin,mg,2000,1000,,,,1000,hoch,mit Wasser,täglich,"Zellschutz, Elektrolyte, Fokus","Zellschutz, Galle, Herz, Nervenberuhigung",
+L-Carnitin-Tartrat,L-Carnitin-Tartrat,mg,1000,1000,,,,,mittel,mit Wasser,täglich,"Mitochondrien, Fettstoffwechsel","Fetttransport, körperliche Leistungsfähigkeit",
+Acetyl-L-Carnitin,Acetyl-L-Carnitin,mg,1000,1000,,,,,hoch,mit Wasser,täglich,"Mitochondrien, Neuroprotektion","Mitochondrien, Hirnleistung, Anti-Fatigue",
+Vitamin A (Retinol),Retinylpalmitat,µg,500,500,,,,,hoch,mit Wasser,täglich,"Vitamine, Immunsystem","Sehkraft, Haut, Immunsystem",
+Chrom,Chrompicolinat,µg,200,200,,,,,hoch,mit Wasser,täglich,"Blutzucker, Spurenelement","Insulinsensitivität, Blutzucker-Stabilität",
+Vitamin C,Calcium-L-Ascorbat,mg,1000,500,,,,500,hoch,mit Wasser,täglich,"Antioxidans, Immunsystem","Antioxidans, Nebennieren, Entgiftung",
+Vitamin D3,Cholecalciferol,I.E.,5000,,5000,,,,ideal,mit Mahlzeit,täglich,"Hormonmodulator, Immunsystem","Hormonregulation, Immunfunktion, Energie",
+Vitamin K2,MK-7 (all-trans),µg,150,,150,,,,ideal,mit Mahlzeit,täglich,"Knochen, Gefäßschutz","Arterienschutz, Knochen, synergistisch mit D3",
+Vitamin E,"Gemischte Tocopherole (α 90 mg, β 9 mg, γ 60 mg, δ 23 mg) + Tocotrienole (α 19 mg, β 1 mg, γ 7 mg, δ 23 mg) + Squalen 5 mg + Phytosterole",mg TE,100,,100,,,,ideal,mit Mahlzeit,täglich,Antioxidans,"Zellmembranschutz, antioxidativ, entzündungshemmend",
+Vitamin B1,Thiamin,mg,30,,15,,15,,mittel,mit Mahlzeit,täglich,"Vitamine, Energie","Kohlenhydratstoffwechsel, Nerven",
+Vitamin B2,Riboflavin-5-Phosphat,mg,30,,15,,15,,mittel,mit Mahlzeit,täglich,"Vitamine, Mitochondrien","Mitochondrien, FAD-Cofaktor",19 mg Gesamtgehalt
+Vitamin B3,Nicotinamid,mg,90,,45,,45,,hoch,mit Mahlzeit,täglich,"Vitamine, NAD+, Mitochondrien","NAD⁺-Precursor, Entzündungshemmung",flushfrei
+Vitamin B5,D-Calciumpantothenat,mg,50,,25,,25,,hoch,mit Mahlzeit,täglich,"Energie, Hormonproduktion","Coenzym A, Energie, Nebennieren",
+Vitamin B6,Pyridoxal-5-Phosphat,mg,20,,10,,10,,hoch,mit Mahlzeit,täglich,"Methylierung, Nervensystem","Neurotransmitter, GABA, Homocystein",15 mg Gesamtgehalt
+Vitamin B12,Methylcobalamin,µg,280,,140,,140,,hoch,mit Mahlzeit,täglich,"Methylierung, Blutbildung","Energie, Nerven, Methylierung",aktivierte Form
+Folat,5-MTHF (Quatrefolic®),µg,400,,200,,200,,ideal,mit Mahlzeit,täglich,Methylierung,"DNA-Reparatur, Homocystein, Zellteilung",371 µg Gesamtgehalt
+Biotin,D-Biotin,µg,400,,200,,200,,hoch,mit Mahlzeit,täglich,"Haut, Haare, Enzymfunktion","Haut, Haare, Nägel, Enzymfunktion",
+Myoinositol,Myo-Inositol,mg,200,,100,,100,,mittel,mit Mahlzeit,täglich,"Blutzucker, Nervensystem, Schlaf","Neurotransmitter-Balance, Insulinsensitivität",
+Magnesium,"Malat, Citrat, Bisglycinat",mg (elementar),388,,194,,194,,hoch,mit Mahlzeit,täglich,"Elektrolyte, Nerven, Muskeln","Muskel, Nerven, Schlaf, ATP-Synthese",
+Selen,Selenmethionin,µg,200,,200,,,,hoch,mit Mahlzeit,täglich,"Antioxidans, Schilddrüse","Schilddrüse, antioxidativ, Immunsystem",
+Cholin,Citicolin,mg,500,,250,,250,,hoch,mit Mahlzeit,täglich,"Methylierung, Leber, Nervensystem","Acetylcholin, Fokus, Leberentgiftung",
+Coenzym Q10,Ubiquinol,mg,200,,200,,,,ideal,mit Mahlzeit,täglich,"Mitochondrien, Herz, Energie","Mitochondrien, Zellenergie, Herzschutz",
+PQQ,MGCPQQ,mg,20,,20,,,,hoch,mit Mahlzeit,täglich,"Mitochondrien, Neuroprotektion","Mitoneogenese, antioxidativ",
+EPA,Triglycerid,mg,1000,,1000,,,,hoch,mit Mahlzeit,täglich,"Omega-3, Entzündung, Zellmembran","Entzündungshemmung, Zellmembranfluidität",aus 2 Kapseln Fischöl (2000 mg)
+DHA,Triglycerid,mg,500,,500,,,,hoch,mit Mahlzeit,täglich,"Omega-3, Gehirn, Sehkraft","Gehirnstruktur, Nervenzellen",aus 2 Kapseln Fischöl (2000 mg)
+DHEA,DHEA,mg,10,,10,,,,hoch,mit Mahlzeit,täglich,Hormonmodulator,"Hormonmodulation, Stressresistenz",
+R-Alpha-Liponsäure,R-Alpha-Liponsäure,mg,300,,300,,,,hoch,mit Mahlzeit,täglich,"Antioxidans, Mitochondrien","Mitochondrien, Antioxidans, Schwermetallbindung",
+Kalium,Kaliumcitrat,mg,1600,,800,,800,,hoch,mit Mahlzeit,täglich,"Elektrolyte, Blutdruck","Elektrolyte, Zellspannung, Blutdruck",
+Creatin,Creatin-Monohydrat,g,6,,,6,,,hoch,Mit Mandelmilch / Shake oder Griechischem Joghurt,täglich,"Kraft, Energie, Gehirn","ATP-Speicher, Muskel, Gehirnleistung",nach Training oder Mittag
+Protein,Whey-Protein,g,30,,,30,,,hoch,Mit Mandelmilch / Shake oder Griechischem Joghurt,täglich,"Muskelaufbau, Grundversorgung","Muskelaufbau, Aminosäurenversorgung",nach Training oder Mittag
+EAA+,EAA-Komplex,g,20,,,20,,,hoch,mit Wasser,nur an Trainingstagen,"Aminosäuren, Muskelaufbau","Muskelversorgung, Regeneration",
+Kupfer,Kupfer Bisglycinat,mg,2,,,,2,,hoch,mit Mahlzeit,täglich,"Spurenelement, Gegenspieler Zink","Enzymfunktion, Antioxidans-Synergie",
+Calcium,Calciumcitrat,mg,532,,266,,266,,mittel,mit Mahlzeit,täglich,"Knochen, Muskelkontraktion","Knochen, Herz, Muskelkontraktion",
+L-Glycin,L-Glycin,mg,3000,,,,,3000,hoch,mit Wasser,täglich,"Schlaf, Entgiftung, Neuroprotektion","Schlaf, GABA, Kollagen, Leber",
+Zink,Zink Bisglycinat,mg,25,,,,,25,hoch,mit Wasser,täglich,"Immunsystem, Testosteron, Gegenspieler Kupfer","Immunsystem, Testosteron, Haut",
+Bor,Natriumborat,mg,3,,,,,3,hoch,mit Wasser,täglich,"Hormonbalance, Knochen, Testosteron","Testosteron, Östrogenabbau, Gelenke",
